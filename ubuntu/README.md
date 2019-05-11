@@ -10,9 +10,9 @@ Automates installation of the following technologies
 ## With Cloning
 
 - This package installs git, so if you already have it, it upgrades the version
-  `cd new/git/directory`
-  `git@github.com:bahodge/utillity_scripts.git`
-  `cd utillity_scripts/ubuntu/install_all_apps.sh`
+  - `cd new/git/directory`
+  - `git@github.com:bahodge/utillity_scripts.git`
+  - `cd utillity_scripts/ubuntu/install_all_apps.sh`
 
 * BROWSER/NETWORKING TOOLS
 
