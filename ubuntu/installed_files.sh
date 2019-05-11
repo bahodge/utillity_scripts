@@ -13,7 +13,7 @@ echo "vs-code, neovim"
 echo
 
 echo 'PROGRAMMING LANGUAGES/FRAMWORKS'
-echo "elixir, phoenix, ruby, node, python3, python"
+echo "elixir, phoenix, ruby, python3, python"
 echo
 
 
