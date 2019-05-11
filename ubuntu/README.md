@@ -5,44 +5,83 @@ Automates installation of the following technologies
 
 ## Get Started
 
-## With Cloning
+### With Cloning
 
-- This package installs git, so if you already have it, it upgrades the version
-  - `cd path/to/local/`
-  - `git@github.com:bahodge/utillity_scripts.git`
-  - `path/to/local/utillity_scripts/ubuntu/install_all_apps.sh`
+-   This package installs git, so if you already have it, it upgrades the version
+    -   `cd path/to/local/`
+    -   `git@github.com:bahodge/utillity_scripts.git`
+    -   `path/to/local/utillity_scripts/ubuntu/install_all_apps.sh`
 
-* BROWSER/NETWORKING TOOLS
+### What gets installed?
 
-  - google-chrome
-  - curl
-  - nmap
-  - ifconfig
-  - net_tools
+-   BROWSER/NETWORKING TOOLS
 
-* SECURITY TOOLS
+    -   google-chrome
+    -   curl
+    -   nmap
+    -   ifconfig
+    -   net_tools
 
-  - gpg2
+-   SECURITY TOOLS
 
-* TEXT EDITORS
+    -   gpg2
 
-  - vs-code
-  - neovim
+-   TEXT EDITORS
 
-* PROGRAMMING LANGUAGES/FRAMWORKS
+    -   vs-code
+    -   neovim
 
-  - elixir
-  - phoenix
-  - ruby
-  - python
-  - python3
+-   PROGRAMMING LANGUAGES/FRAMWORKS
 
-* VERSION MANAGERS
+    -   elixir
+    -   phoenix
+    -   ruby
+    -   python
+    -   python3
 
-  - git
-  - hex
-  - mix
-  - rvm
+-   VERSION MANAGERS
 
-* DEVELOPER HAPPINESS
-  - caffeine
+    -   git
+    -   hex
+    -   mix
+    -   rvm
+
+-   DEVELOPER HAPPINESS
+    -   caffeine
+
+### Upcoming Stuff
+
+-   SECURITY TOOLS
+
+    -   git-secret
+
+-   DATABASES
+
+    -   postgres
+    -   mysql
+
+-   FRONTEND
+
+    -   npx
+
+-   BACKEND
+
+    -   redis
+    -   docker
+    -   docker-compose
+
+-   FRAMEWORKS
+
+    -   ruby on rails
+    -   create-react-app
+    -   elm
+
+-   VERSION CONTROL
+
+    -   git town
+
+-   TOOLS
+
+    -   vs-code extensions for languages
+    -   slack
+    -   jetbrains toolbox
