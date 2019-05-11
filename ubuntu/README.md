@@ -7,9 +7,14 @@ Automates installation of the following technologies
 
 ## With the Tar boiz
 
-``
+## With Cloning
 
-- BROWSER/NETWORKING TOOLS
+- This package installs git, so if you already have it, it upgrades the version
+  `cd new/git/directory`
+  `git@github.com:bahodge/utillity_scripts.git`
+  `cd utillity_scripts/ubuntu/install_all_apps.sh`
+
+* BROWSER/NETWORKING TOOLS
 
   - google-chrome
   - curl
@@ -17,16 +22,16 @@ Automates installation of the following technologies
   - ifconfig
   - net_tools
 
-- SECURITY TOOLS
+* SECURITY TOOLS
 
   - gpg2
 
-- TEXT EDITORS
+* TEXT EDITORS
 
   - vs-code
   - neovim
 
-- PROGRAMMING LANGUAGES/FRAMWORKS
+* PROGRAMMING LANGUAGES/FRAMWORKS
 
   - elixir
   - phoenix
@@ -34,12 +39,12 @@ Automates installation of the following technologies
   - python
   - python3
 
-- VERSION MANAGERS
+* VERSION MANAGERS
 
   - git
   - hex
   - mix
   - rvm
 
-- DEVELOPER HAPPINESS
+* DEVELOPER HAPPINESS
   - caffeine
