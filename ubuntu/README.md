@@ -5,14 +5,12 @@ Automates installation of the following technologies
 
 ## Get Started
 
-## With the Tar boiz
-
 ## With Cloning
 
 - This package installs git, so if you already have it, it upgrades the version
-  - `cd new/git/directory`
+  - `cd path/to/local/`
   - `git@github.com:bahodge/utillity_scripts.git`
-  - `cd utillity_scripts/ubuntu/install_all_apps.sh`
+  - `path/to/local/utillity_scripts/ubuntu/install_all_apps.sh`
 
 * BROWSER/NETWORKING TOOLS
 
